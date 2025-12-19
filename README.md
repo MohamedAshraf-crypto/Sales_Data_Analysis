@@ -1,128 +1,105 @@
-📊 Sales Data Analysis Dashboard (Excel)
-📌 Project Overview
+# 📊 Sales Data Analysis Dashboard (Excel)
 
-This project presents a comprehensive sales data analysis built using Microsoft Excel.
-The goal is to transform raw sales data into meaningful insights through interactive dashboards, KPIs, and time-based analysis to support data-driven decision-making.
+## 📌 Overview
+This project showcases a **Sales Data Analysis Dashboard** created using **Microsoft Excel**.  
+It converts raw sales data into meaningful business insights using KPIs, time-series analysis, and interactive visualizations.
 
-The final output is a visually rich Sales Analysis Dashboard that highlights performance across time, geography, transactions, and profitability.
+The dashboard is designed to help stakeholders quickly understand **sales performance, profitability, and trends** across time and regions.
 
-🎯 Objectives
+---
 
-Analyze overall sales performance and profitability
+## 🎯 Project Objectives
+- Analyze overall sales performance and profitability  
+- Track revenue, cost, and profit trends over time  
+- Identify high-performing months, quarters, and weekdays  
+- Compare sales performance across different countries  
+- Build an interactive Excel dashboard for decision-making  
 
-Track revenue, cost, and profit trends over time
+---
 
-Identify high-performing months, quarters, and weekdays
+## 📈 Key Performance Indicators (KPIs)
+- **Total Quantity Sold**
+- **Total Revenue**
+- **Total Cost of Goods Sold (COGS)**
+- **Net Profit**
+- **Profit Margin (%)**
+- **Total Transactions**
+- **Average Transaction Value**
 
-Compare sales performance across different countries
+---
 
-Provide an interactive dashboard for business insights
+## 📊 Dashboard Highlights
+### 🔹 Time-Based Analysis
+- Monthly profit and revenue trends  
+- Quarterly profit comparison  
+- Year-based transaction performance  
 
-📈 Key Metrics (KPIs)
+### 🔹 Profitability Insights
+- Net profit and margin analysis  
+- Contribution of highlighted months to total profit  
+- Weekday vs weekend performance comparison  
 
-The dashboard includes the following key performance indicators:
+### 🔹 Interactive Filters
+- **Month Filter:** January – December  
+- **Country Filter:**  
+  - Australia  
+  - Canada  
+  - France  
+  - Germany  
+  - United Kingdom  
+  - United States  
 
-Total Quantity Sold
+All visuals update dynamically based on selected filters.
 
-Total Revenue
+---
 
-Total Cost of Goods Sold (COGS)
+## 🌍 Geographic Analysis
+The dashboard provides country-level analysis to:
+- Compare revenue and profit by country  
+- Identify top-performing markets  
 
-Net Profit
+---
 
-Profit Margin (%)
+## 🛠 Tools & Skills Used
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Slicers for interactivity  
+- Time Series Analysis  
+- Dashboard Design & Data Visualization  
+- Financial Metrics (Revenue, Profit, Margin)
 
-Total Transactions
+---
 
-Average Transaction Value
-
-📊 Dashboard Features
-🔹 Time-Based Analysis
-
-Monthly sales and profit trends
-
-Quarterly profit comparison
-
-Year-based transaction analysis
-
-🔹 Profitability Insights
-
-Net profit and profit margin tracking
-
-Contribution of highlighted months and weekdays to total profit
-
-Workday vs Weekend performance comparison
-
-🔹 Interactive Filters
-
-Month Filter (Jan–Dec)
-
-Country Filter (Australia, Canada, France, Germany, UK, USA)
-
-These filters dynamically update all visuals on the dashboard.
-
-🌍 Geographic Analysis
-
-Sales performance is analyzed across multiple countries, allowing users to:
-
-Compare revenue and profit by country
-
-Identify top-performing markets
-
-🛠 Tools & Techniques Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Slicers for interactivity
-
-Time Series Analysis
-
-Dashboard Design & Data Visualization
-
-Basic Financial Metrics (Revenue, Profit, Margin)
-
-📂 Project Structure
-├── Data
+## 📂 Project Structure
+```text
+Sales-Data-Analysis/
+│
+├── Data/
 │   └── Raw sales dataset
-├── Analysis
+│
+├── Analysis/
 │   └── Pivot tables & calculations
-├── Dashboard
-│   └── Final interactive Excel dashboard
+│
+├── Dashboard/
+│   └── Sales Analysis Dashboard.xlsx
+│
+├── Screenshot (211).png
 └── README.md
-
-📷 Dashboard Preview
-
-The dashboard provides a high-level overview while allowing detailed drill-down through filters.
-
-🚀 Key Insights
-
-A small number of months contribute a significant percentage of total profit
-
-Workdays generate the majority of revenue compared to weekends
-
-Certain quarters consistently outperform others in profitability
-
-A few countries drive the majority of total sales and profit
 
 📌 Conclusion
 
-This project demonstrates the ability to:
+This project demonstrates strong skills in:
 
-Analyze large sales datasets
+Sales data analysis
 
-Design executive-level dashboards
+Excel dashboard development
 
-Extract actionable business insights
+Business intelligence reporting
 
-Present data clearly and professionally
+Data-driven storytelling
 
-It is ideal for showcasing data analysis, Excel dashboarding, and business intelligence skills.
+It is suitable for Data Analyst, Business Analyst, and BI Analyst portfolios.
 
-🤝 Contact
-
-If you have feedback or would like to collaborate, feel free to connect!
-
-Author: Mohamed Ashraf
-Skills: Data Analysis | Excel | Dashboarding | Business Intelligence
+👤 Author
+Mohamed Ashraf
+Data & Business Analyst | Accounting & Finance Background
